@@ -1,0 +1,11 @@
+{
+  "name": "polygons",
+  "version": "1.0.0",
+  "description": "A project exploring polygon rendering with Canvas API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pdl39",
+  "license": "ISC"
+}
